@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">photographer_matching</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="my_page">MyPage</string>
+
+
+
+</resources>
